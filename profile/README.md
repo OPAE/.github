@@ -8,6 +8,7 @@ will be moving to the new [OFS organization](https://github.com/OFS):
   - [OPAE/opae-legacy](https://github.com/OPAE/opae-legacy)
   - [OPAE/opae-sdk](https://github.com/OPAE/opae-sdk)
   - [OPAE/opae-sim](https://github.com/OPAE/opae-sim)
+  - [OPAE/ofs-platform-afu-bbb](https://github.com/OPAE/ofs-platform-afu-bbb)
 
 Links to the old OPAE repository locations will remain valid and redirect to
 the new OFS repository locations.
