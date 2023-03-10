@@ -3,6 +3,7 @@
 As part of the OFS 2022.3 release, the following OPAE repositories
 have moved to the new [OFS organization](https://github.com/OFS):
 
+  - [OPAE/dfl-feature-id](https://github.com/OPAE/dfl-feature-id)
   - [OPAE/linux-dfl](https://github.com/OPAE/linux-dfl)
   - [OPAE/linux-dfl-backport](https://github.com/OPAE/linux-dfl-backport)
   - [OPAE/opae-legacy](https://github.com/OPAE/opae-legacy)
